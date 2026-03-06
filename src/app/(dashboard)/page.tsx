@@ -1,4 +1,4 @@
-import { DashboardView } from "../features/views/dashboard-view";
+import { DashboardView } from "../features/dashboard/views/dashboard-view";
 
 export default function DashboardPage() {
   return (
