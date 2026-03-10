@@ -1,6 +1,6 @@
 import { PageHeader } from "@/components/page-header";
-import { HeroPattern } from "@/app/features/dashboard/components/hero-pattern";
-import { DashboardHeader } from "@/app/features/dashboard/components/dashboard-header";
+import { HeroPattern } from "@/features/dashboard/components/hero-pattern";
+import { DashboardHeader } from "@/features/dashboard/components/dashboard-header";
 import { TextInputPanel } from "@/features/dashboard/components/text-input-panel";
 import { QuickActionsPanel } from "@/features/dashboard/components/quick-actions-panel";
 
