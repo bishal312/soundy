@@ -4,7 +4,7 @@ import {
   SidebarInset,
   SidebarProvider
 } from "@/components/ui/sidebar";
-import { DashboardSidebar } from "../../features/dashboard/components/dashboard-sidebar";
+import { DashboardSidebar } from "@/features/dashboard/components/dashboard-sidebar";
 import { auth } from "@clerk/nextjs/server";
 import { redirect } from "next/navigation";
 
