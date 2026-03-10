@@ -1,4 +1,4 @@
-import { TextToSpeechLayout } from "@/app/features/text-to-speech/view/text-to-speech-layout"
+import { TextToSpeechLayout } from "@/features/text-to-speech/view/text-to-speech-layout"
 
 export default function Layout({
   children
